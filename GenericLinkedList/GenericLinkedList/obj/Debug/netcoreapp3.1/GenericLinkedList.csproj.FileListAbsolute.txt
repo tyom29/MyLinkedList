@@ -1,0 +1,13 @@
+D:\Desktop\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.exe
+D:\Desktop\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.deps.json
+D:\Desktop\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.runtimeconfig.json
+D:\Desktop\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.runtimeconfig.dev.json
+D:\Desktop\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.dll
+D:\Desktop\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.pdb
+D:\Desktop\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.csprojAssemblyReference.cache
+D:\Desktop\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.AssemblyInfoInputs.cache
+D:\Desktop\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.AssemblyInfo.cs
+D:\Desktop\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.csproj.CoreCompileInputs.cache
+D:\Desktop\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.dll
+D:\Desktop\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.pdb
+D:\Desktop\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.genruntimeconfig.cache
